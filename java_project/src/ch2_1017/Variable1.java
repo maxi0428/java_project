@@ -19,6 +19,12 @@ public class Variable1 {
 		// p1 = new person(); 기본 생성자 호출.
 		// 생성자의 역할은 값을 초기화 하는 역할.
 		System.out.println(level); 
+		System.out.println(b1);
+		System.out.println("내용 테스트 중");
+		// int i = 1000000000;
+		// 해당 데이터 타입의 메모리 크기 및 공간에 대해서 암기등 이렇게 할 필요 없음.
+		// 컴파일러가 알아서 1차 문법 검사 해줍니다.
+		
 	}
 
 }
